@@ -1,6 +1,6 @@
 # Java-Lab
 
-<img src="java-logo1.png" alt="java_logo" width="300" height="auto">
+<img src="java-logo.png" alt="java_logo" width="300" height="auto">
 
 Each branch contains the exercises for one lab.
 
