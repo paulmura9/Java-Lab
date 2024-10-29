@@ -1,3 +1,3 @@
 # Java-Lab
 
-![Java Logo](java_logo.png)
+<img src="java-logo1.png" alt="java" width="300" height="auto">
